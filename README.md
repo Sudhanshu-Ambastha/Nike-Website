@@ -49,6 +49,6 @@ The project is organized into several components and sections, each responsible 
 ## Additional Resources
 For more information on the tools and technologies used in this project, refer to the following:
 
-[Tailwind CSS Documentation](https://tailwindcss.com/docs/guides/vite)
-[Vite Documentation](https://vitejs.dev/)
-[React Documentation](https://react.dev/blog/2023/03/16/introducing-react-dev)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs/guides/vite)
+- [Vite Documentation](https://vitejs.dev/)
+- [React Documentation](https://react.dev/blog/2023/03/16/introducing-react-dev)
